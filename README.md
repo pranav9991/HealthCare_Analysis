@@ -6,7 +6,7 @@ In this project, we performed an analysis on a healthcare dataset with the goal 
 
 Before training our model, we preprocessed the data as follows:
 
-Ordinal Encoding: Converted categorical features into numerical values using ordinal encoding.
+Target Guide Ordinal Encoding: Converted categorical features into numerical values using target guided ordinal encoding.
 Data Splitting: Split the dataset into training and testing sets to evaluate model performance.
 
 # Model Training
